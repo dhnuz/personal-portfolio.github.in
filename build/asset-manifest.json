@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b4b5f3e.css",
+    "main.js": "/static/js/main.6a62269e.js",
+    "static/media/dhnuz-stock-image-web.jpg": "/static/media/dhnuz-stock-image-web.b2af8b12af3638ea3855.jpg",
+    "static/media/HTF-front-web-image.jpg": "/static/media/HTF-front-web-image.53dce4bb35ecff0b5c04.jpg",
+    "static/media/CocktailDB-Web.jpg": "/static/media/CocktailDB-Web.916e78c0b2f61e0d2d3c.jpg",
+    "static/media/assets_chart_main.jpg": "/static/media/assets_chart_main.edaec71c077551a2423b.jpg",
+    "static/media/dhnuz-stock-image-mobile.jpg": "/static/media/dhnuz-stock-image-mobile.a4353c710b9602725e89.jpg",
+    "static/media/cocktailDB-mobile.jpg": "/static/media/cocktailDB-mobile.86e5a8f2c9d9c3fc8421.jpg",
+    "static/media/HTF-about.jpg": "/static/media/HTF-about.d17ab76575823003646a.jpg",
+    "static/media/Mobile-screen-products.jpg": "/static/media/Mobile-screen-products.cc13c228f561a58fffd1.jpg",
+    "static/media/assets_chart_mobile2.jpg": "/static/media/assets_chart_mobile2.74cbeacb760da502d848.jpg",
+    "static/media/assets_chart_mobile1.jpg": "/static/media/assets_chart_mobile1.b6fb6fbccab8e14c6014.jpg",
+    "static/media/cocktailDB-mobile1.jpg": "/static/media/cocktailDB-mobile1.d80371c75ca27b817026.jpg",
+    "index.html": "/index.html",
+    "main.9b4b5f3e.css.map": "/static/css/main.9b4b5f3e.css.map",
+    "main.6a62269e.js.map": "/static/js/main.6a62269e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b4b5f3e.css",
+    "static/js/main.6a62269e.js"
+  ]
+}
